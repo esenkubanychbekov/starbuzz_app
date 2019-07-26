@@ -6,10 +6,10 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".DrinkCategoryActivity">
+    tools:context=".PissaCategoryActivity">
 
     <ListView
-        android:id="@+id/list_drinks"
+        android:id="@+id/list_pissa"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
